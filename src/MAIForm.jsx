@@ -27,7 +27,7 @@ const questions = [
   { text: "I ask myself periodically if I am meeting my goals.", zh: "我会定期问自己是否达成目标" },
   { text: "I consider several alternatives to a problem before I answer.", zh: "我会在回答问题前考虑几种可能的解决办法" },
   { text: "I try to use strategies that have worked in the past.", zh: "我尝试使用过去有效的方法" },
-  { text: "I pace myself while learning in order to have enough time.", zh: "我在学习过程中合理安排节奏，以确保有充足时间" },
+  { text: "I pace myself while learning in order to have enough time.", zh: "我会合理安排时间，让自己不会拖延或赶作业" },
   { text: "I understand my intellectual strengths and weaknesses.", zh: "我了解自己的认知优劣势" },
   { text: "I think about what I really need to learn before I begin a task.", zh: "我在开始任务前会思考自己真正需要学习的内容" },
   { text: "I know how well I did once I finish a test.", zh: "考试结束后我知道自己表现如何" },

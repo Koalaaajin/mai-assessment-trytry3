@@ -19,7 +19,7 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
 // NOTE: shorten question list for demo
 const questions = [
- { text: "I ask myself periodically if I am meeting my goals.", zh: "我会定期问自己是否达成目标" },
+  { text: "I ask myself periodically if I am meeting my goals.", zh: "我会定期问自己是否达成目标" },
   { text: "I consider several alternatives to a problem before I answer.", zh: "我会在回答问题前考虑几种可能的解决办法" },
   { text: "I try to use strategies that have worked in the past.", zh: "我尝试使用过去有效的方法" },
   { text: "I pace myself while learning in order to have enough time.", zh: "我会合理安排时间，让自己不会拖延或赶作业。" },
@@ -70,7 +70,7 @@ const questions = [
   { text: "I ask myself questions about how well I am doing while I am learning something new.", zh: "我在学习新内容时会问自己掌握得如何" },
   { text: "I ask myself if I learned as much as I could have once I finish a task.", zh: "任务完成后我会反思是否学到了最多" },
   { text: "I stop and go back over new information that is not clear.", zh: "我会回头重新学习不清楚的内容" },
-  { text: "I stop and reread when I get confused.", zh: "当我感到困惑时会停下来重新阅读" }
+  { text: "I stop and reread when I get confused.", zh: "当我感到困惑时会停下来重新阅读" },
 ];
 
 export default function MAIForm() {
